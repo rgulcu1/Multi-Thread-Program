@@ -1,1 +1,1 @@
-![GitHub Logo](/image.png)
+![Figure](/image.png?style=centerme)
