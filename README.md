@@ -1,1 +1,1 @@
-![Figure](/image.png?style=centerme)
+![Figure](/image.png) {.center}
